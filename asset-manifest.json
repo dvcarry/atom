@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/atom/static/css/main.af9b9b06.css",
+    "main.js": "/atom/static/js/main.2ab57445.js",
+    "static/js/787.c72d63a2.chunk.js": "/atom/static/js/787.c72d63a2.chunk.js",
+    "static/media/background.jpg": "/atom/static/media/background.926c3d6a05232b5f2f35.jpg",
+    "static/media/logo.png": "/atom/static/media/logo.c1eacdca75e44cd2628f.png",
+    "index.html": "/atom/index.html",
+    "main.af9b9b06.css.map": "/atom/static/css/main.af9b9b06.css.map",
+    "main.2ab57445.js.map": "/atom/static/js/main.2ab57445.js.map",
+    "787.c72d63a2.chunk.js.map": "/atom/static/js/787.c72d63a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9b9b06.css",
+    "static/js/main.2ab57445.js"
+  ]
+}
